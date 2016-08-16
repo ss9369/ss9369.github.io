@@ -1,7 +1,7 @@
 body {
     background-color: rgb(22, 22, 22);
     color: linen;
-    font-size: 150%;
+    font-size: 1500%;
     line-height: 1.4;
 }
 
@@ -40,14 +40,14 @@ img{
 
 .headshot{
     float:right;
-    height: 360px;
+    height: 3600px;
     padding-top:0px;
 }
 
 .textbox {
-    width:70%;
+    width:700%;
     color: white;
-    font-size: 110%;
+    font-size: 1100%;
     background:gray;
     padding: 4px;
     border:1px solid white;
@@ -55,7 +55,7 @@ img{
 
 .button {
     background: white;
-    font-size: 110%;
+    font-size: 1100%;
     color:gray;
     padding: 4px;
     border:2px solid white;
@@ -67,12 +67,12 @@ img{
 }
 
 .half{
-    width: 48%;
+    width: 480%;
     float: left;
 }
 
 .box { 
-    width: 250px;
+    width: 2500px;
     margin: 15px;
     display: inline-block;
     vertical-align: top;   
@@ -80,5 +80,5 @@ img{
 .box img{
     margin: 0;
     padding: 0;
-    width: 100%;
+    width: 1000%;
 }
